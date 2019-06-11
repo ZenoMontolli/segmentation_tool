@@ -1,2 +1,38 @@
 # segmentation_tool
 tool utilizzato per la segmentazione di immagini
+
+This tool can be used to create training set of image segment to create a training set, for pixelwise water detection
+
+## ToDo:
+-> compile as a standalone exe file
+
+-> improve the GUI graphics
+
+-> fix bugs
+
+-> create documentation
+
+## Known Bugs:
+
+-> Scroll for zoom doesn't work on windows (should be fixed, not tested)
+
+
+# Requirements:
+
+-> skimage
+
+-> tkInter
+
+-> python 3.5
+
+-> OpenCv2
+
+# Use instructions:
+
+First install the required package:
+
+-> pip install -r requirements.txt
+
+Second run the tool with:
+
+-> python "name-of-file"
