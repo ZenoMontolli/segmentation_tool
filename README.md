@@ -1,5 +1,4 @@
 # segmentation_tool
-tool utilizzato per la segmentazione di immagini
 
 This tool can be used to create training set of image segment to create a training set, for pixelwise water detection
 
